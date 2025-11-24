@@ -13,9 +13,6 @@
 一中
 九二共识
 台独
-+中国 +台湾
-中国
-+北京 +台北
 !旅游 !美食 !小吃 !奶茶 !景点
 
 # === 词组2：国际场合与外交涉台 ===
@@ -31,10 +28,7 @@ WHO
 ICAO
 WHA
 IATA
-+Taiwan +China
-+Taiwan +Beijing
-+Taiwan +diplomacy
-+Taiwan +international
++Taiwan
 !Taiwanese food !travel !tourism !bubble tea
 
 # === 词组3：军事与安全动态 ===
@@ -49,9 +43,7 @@ F-16
 协防
 武统
 和平统一
-+台海 +紧张
-+台湾 +军售
-+China +military +Taiwan
++Taiwan
 
 # === 词组4：经贸与科技合作/制裁 ===
 ECFA
@@ -62,6 +54,4 @@ TSMC
 供应链
 出口管制
 美国对台
-+台湾 +贸易
-+Taiwan +semiconductor
-+TSMC +China
++台湾
